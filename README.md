@@ -1,1 +1,1 @@
-# jovian_app
+# NSE eod app
